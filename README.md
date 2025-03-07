@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @toko-is-busy but you can call me Audrey or Toko
-- 👀 I’m interested in Programming and the arts
-- 🌱 I’m currently learning basic and advance C
+- 🌱 I’m currently a 4th year Computer Science Student
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me @itsyasminaudrey (on IG or Twitter)
 
