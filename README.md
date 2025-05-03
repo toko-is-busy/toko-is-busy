@@ -5,7 +5,7 @@ When I'm not coding an application, developing a wearable tech or forecasting wi
 
 
 🔧 Tools I love: Python, SQL, Edge Impulse, Vue, React, Matlab. and Tableau
-💡 Always exploring ways to blend creativity and code  
+//💡 Always exploring ways to blend creativity and code  
 🤝 Open to internships, collabs, and building cool stuff together!
 
 📫 Reach me at **datario.yasminaudrey@gmail.com**  
