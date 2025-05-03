@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @toko-is-busy but you can call me Audrey or Toko
+- 👋 Hi, I’m @toko-is-busy but you can call me Audrey
 - 🌱 I’m currently a 4th year Computer Science Student
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me @itsyasminaudrey (on IG or Twitter)
